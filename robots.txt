@@ -1,6 +1,4 @@
 User-agent:*
-Disallow: /A//B/
-Disallow: /C/
-Disallow: /A/321.jpg
+Disallow: /favcon.io
 
 Sitemap:https: //www.Johinee.com/sitemap.xml

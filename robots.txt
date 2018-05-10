@@ -1,4 +1,4 @@
-User-agent:*
+User-agent: *
 Disallow: /favcon.io
 
-Sitemap:https: //www.Johinee.com/sitemap.xml
+Sitemap:https: //Johinee.github.io/sitemap.xml
